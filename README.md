@@ -2,5 +2,7 @@
  
 # 尚在开发 / Under development..
 
+# 暂不可用 / Not available now
+
 # 如何使用 / How to Use
 准备文件`cookie.txt`，与`Crawler.py`置于同一文件夹内，内部填写一行 cookie 信息
