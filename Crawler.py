@@ -1,3 +1,11 @@
+# encoding: utf-8
+#############################
+#   Project: RailCN_Tools   #
+#  Developed by HansLimon.  #
+#                           #
+#    Created: 2024/05/15    #
+# Last modified: 2024/05/15 #
+#############################
 import requests
 
 class Crawler:
